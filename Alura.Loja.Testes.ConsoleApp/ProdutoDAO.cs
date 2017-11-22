@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Data.SqlClient;
 
-namespace Alura.Loja
+namespace Alura.Loja.Testes.ConsoleApp 
 {
     internal class ProdutoDAO : IDisposable
     {

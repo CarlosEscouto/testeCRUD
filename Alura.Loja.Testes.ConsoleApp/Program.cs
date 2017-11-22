@@ -3,8 +3,9 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using dllBSNegocio;
 
-namespace Alura.Loja
+namespace Alura.Loja.Testes.ConsoleApp 
 {
     class Program
     {

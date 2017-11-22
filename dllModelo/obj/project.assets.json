@@ -24336,11 +24336,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\source\\repos\\Alura.Loja\\Model.Loja\\dllModelo.csproj",
+      "projectUniqueName": "C:\\Users\\User\\source\\repos\\Alura.Loja\\dllModelo\\dllModelo.csproj",
       "projectName": "dllModelo",
-      "projectPath": "C:\\Users\\User\\source\\repos\\Alura.Loja\\Model.Loja\\dllModelo.csproj",
+      "projectPath": "C:\\Users\\User\\source\\repos\\Alura.Loja\\dllModelo\\dllModelo.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\source\\repos\\Alura.Loja\\Model.Loja\\obj\\",
+      "outputPath": "C:\\Users\\User\\source\\repos\\Alura.Loja\\dllModelo\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "configFilePaths": [

@@ -4,11 +4,14 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-
 namespace dllModelo
 {
-    public class Escreve
+    public class Caneta
     {
-        public string Nome;
+        public string Escreve()
+        {
+
+            return "DLL FUNCIONANDO!";
+        }
     }
 }
